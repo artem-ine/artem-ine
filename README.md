@@ -15,4 +15,5 @@ I'm Zeke, a front-end dev currently based in Paris.
 
 ## Who doesn't love stats
 
-[![artem-ine's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem-ine)](https://github.com/artem-ine/github-readme-stats)
+[![artem-ine's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem-ine&hide_rank=true)](https://github.com/artem-ine/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artem-ine&hide_progress=true)
