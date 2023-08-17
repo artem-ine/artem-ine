@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**artem-ine/artem-ine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Howdy!
 
-Here are some ideas to get you started:
+I'm Zeke, a front-end dev currently based in Paris.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Where to find me
+
+- Over on LinkedIn: www.linkedin.com/in/ezekielravidat
+- On my portfolio: ___
+
+## A collection of things I know how to use
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,react,vite,bootstrap,heroku,latex,mysql,postgres,rails,regex,sass,sqlite,tailwind,vscode,wordpress)](https://skillicons.dev)
