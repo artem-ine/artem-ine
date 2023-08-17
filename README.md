@@ -3,11 +3,12 @@
 
 I'm Zeke, a front-end dev currently based in Paris.
 
-
 ## Where to find me
 
 - Over on LinkedIn: www.linkedin.com/in/ezekielravidat
 - On my portfolio: ___
+
+I am fluent in English and in French :)
 
 ## A collection of things I know how to use
 
